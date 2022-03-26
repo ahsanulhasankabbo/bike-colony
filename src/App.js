@@ -10,7 +10,7 @@ function App() {
       <Header></Header>
       <AllBike></AllBike>
       <Question></Question>
-          
+
     </div>
   );
 }
