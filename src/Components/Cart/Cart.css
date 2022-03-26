@@ -3,9 +3,7 @@
     height: 50px;
     border-radius: 50%;
 }
-.cart-product p{
-    font-size: 16px;
-}
+
 @media only screen and (max-width: 768px){
     .cart-product img{
         width: 30px;

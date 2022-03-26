@@ -1,3 +1,3 @@
 # Bike Depot
 
-This project was bootstrapped with [Create React App](https://rainbow-pastelito-fea9db.netlify.app/).
+Live website : [Click here](https://bike-depot-fea9db.netlify.app/).
