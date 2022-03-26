@@ -41,7 +41,7 @@ const AllBike = () => {
     setCart(choose);
   }
   return (
-    <div className='products ms-5'>
+    <div className='products'>
       <div className='product-container'>
         {
           products.map(product => <Bike showDetails={showDetails} key={product.id} product={product}></Bike>)
